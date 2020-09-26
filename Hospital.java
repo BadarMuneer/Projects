@@ -81,6 +81,8 @@ public class Hospital
 	{
 		Design design=new Design();
 		Admin admin=new Admin();
+		Doctor doctor=new Doctor();
+		Patient patient=new Patient();
 		int userType;
 		while(true)
 			{
